@@ -1,6 +1,6 @@
 # Doubly Linked List - Lista Duplamente Encadeada
 
-Algoritmo da Lista Duplamente Encadeada, utilizado para obtenção de nota na disciplina de Estrutura de Dados na Univille.
+Algoritmo Doubly Linked List (Lista Duplamente Encadeada) - utilizado para obtenção de nota na disciplina de Estrutura de Dados na Univille.
 
 ## Complexidade em Big-Oh dos métodos do algoritmo
 
